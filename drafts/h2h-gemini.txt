@@ -1,0 +1,6 @@
+**(1) Steps an AI agent can do alone:** Both plans rely on tasks entirely executable by an AI agent (coding, scraping forums, processing data via scripts, handling payment links). *Tie.*
+
+**(2) Expected money on day 30:** Entry A lacks a concrete target or expected volume. Entry B projects a specific, realistic outcome (20 jobs, ~$600 revenue, capital preserved). *Decision point reached.*
+
+**Verdict:** B  
+**Margin:** 4

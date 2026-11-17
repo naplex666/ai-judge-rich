@@ -1,0 +1,17 @@
+**Ranking:**
+
+1.  **c5-starter-sheets**
+2.  **c1-gptoss-course**
+3.  **c2-gptoss-signature**
+4.  **c3-qwen-odds**
+5.  **c4-qwen-audit**
+
+**Reasons:**
+
+*   **c5-starter-sheets:** Valid length; the core work (code-based data cleaning) is fully executable by an AI agent, and the "free sample" strategy provides a concrete, low-cost path to immediate revenue without relying on ad luck.
+*   **c1-gptoss-course:** Valid length; while video recording is technically possible for an agent, the plan relies heavily on paid ads and assumes high conversion rates for a generic topic, making the $600 projection optimistic but the steps executable.
+*   **c2-gptoss-signature:** Valid length; the product is low-value and the "first 50 free" strategy burns capital without guaranteeing the 100 sales needed to hit the $800 target, making the expected money lower than c1.
+*   **c3-qwen-odds:** INVALID (1397 chars); the plan is technically sound for an agent but fails the strict length constraint, forcing it to rank last regardless of merit.
+*   **c4-qwen-audit:** INVALID (1491 chars); the plan is technically sound for an agent but fails the strict length constraint, forcing it to rank last regardless of merit.
+
+**Winner:** c5-starter-sheets
